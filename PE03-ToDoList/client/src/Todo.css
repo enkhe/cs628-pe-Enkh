@@ -1,0 +1,23 @@
+.todo {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  background-color: #f9f9f9;
+}
+
+.todo span {
+  flex-grow: 1;
+}
+
+.todo button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
