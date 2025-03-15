@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Beef Pho",
+      "category": "Vietnamese",
+      "cookingTime": 180,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "beef bones (marrow or knuckle)", "quantity": "2", "unit": "lbs" },
+        { "name": "beef brisket", "quantity": "1", "unit": "lb" },
+        { "name": "sirloin or flank steak, thinly sliced", "quantity": "1/2", "unit": "lb" },
+        { "name": "rice noodles", "quantity": "1", "unit": "lb" },
+        { "name": "onions, halved", "quantity": "2", "unit": "large" },
+        { "name": "ginger, sliced", "quantity": "4", "unit": "inch piece" },
+        { "name": "cinnamon sticks", "quantity": "2", "unit": "" },
+        { "name": "star anise", "quantity": "4", "unit": "whole" },
+        { "name": "cloves", "quantity": "6", "unit": "whole" },
+        { "name": "coriander seeds", "quantity": "1", "unit": "tbsp" },
+        { "name": "fennel seeds", "quantity": "1", "unit": "tsp" },
+        { "name": "fish sauce", "quantity": "1/4", "unit": "cup" },
+        { "name": "sugar", "quantity": "1", "unit": "tbsp" },
+        { "name": "salt", "quantity": "2", "unit": "tsp" },
+        { "name": "bean sprouts", "quantity": "2", "unit": "cups" },
+        { "name": "Thai basil leaves", "quantity": "1", "unit": "cup" },
+        { "name": "fresh mint leaves", "quantity": "1", "unit": "cup" },
+        { "name": "cilantro, chopped", "quantity": "1/2", "unit": "cup" },
+        { "name": "lime wedges", "quantity": "2", "unit": "limes" },
+        { "name": "jalapeño, sliced", "quantity": "2", "unit": "" },
+        { "name": "hoisin sauce", "quantity": "", "unit": "for serving" },
+        { "name": "sriracha sauce", "quantity": "", "unit": "for serving" }
+      ],
+      "instructions": "1. Preheat oven to 425°F (220°C). Place beef bones, onion halves, and ginger on a baking sheet and roast for 20-25 minutes until browned.\n\n2. Transfer the roasted bones, onion, and ginger to a large stockpot. Add the brisket, cinnamon sticks, star anise, cloves, coriander seeds, and fennel seeds.\n\n3. Fill the pot with about 5 quarts of cold water, enough to cover all ingredients. Bring to a boil, then reduce heat to a gentle simmer.\n\n4. Skim off any foam or impurities that rise to the surface during the first 30 minutes of simmering.\n\n5. Continue to simmer uncovered for 2-3 hours, until the brisket is tender and the broth is flavorful.\n\n6. Remove the brisket, let it cool, then thinly slice it against the grain and set aside.\n\n7. Strain the broth through a fine-mesh sieve into another pot, discarding solids. Add fish sauce, sugar, and salt to the broth. Keep hot.\n\n8. Cook rice noodles according to package instructions. Drain and rinse under cold water.\n\n9. Arrange serving bowls with cooked noodles, sliced brisket, and raw sirloin slices.\n\n10. Ladle the very hot broth over the ingredients in each bowl. The heat will cook the raw sirloin slices.\n\n11. Serve immediately with bean sprouts, herbs, lime wedges, jalapeños, hoisin sauce, and sriracha on the side for everyone to customize their own bowl.",
+      "notes": "The key to great pho is in the broth. Roasting the bones and aromatics first adds incredible depth of flavor. If you can't find all the spices, many stores sell pho spice packets. For a shortcut version, use good quality beef stock as a base and simmer with the spices for at least an hour. Thinly slicing the raw beef is easier if it's partially frozen.",
+      "cookwares": [
+        "Large stockpot",
+        "Baking sheet",
+        "Fine-mesh sieve",
+        "Large pot for noodles",
+        "Serving bowls",
+        "Sharp knife",
+        "Cutting board",
+        "Tongs",
+        "Ladle"
+      ],
+      "images": []
+    }
+  ]

@@ -1,0 +1,92 @@
+[
+    {
+      "name": "Mongolian Beef",
+      "category": "Mongolian",
+      "cookingTime": 30,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "flank steak, thinly sliced across the grain", "quantity": "1", "unit": "lb" },
+        { "name": "cornstarch", "quantity": "1/4", "unit": "cup" },
+        { "name": "vegetable oil", "quantity": "3", "unit": "tbsp" },
+        { "name": "ginger, minced", "quantity": "2", "unit": "tsp" },
+        { "name": "garlic, minced", "quantity": "1", "unit": "tbsp" },
+        { "name": "soy sauce", "quantity": "1/2", "unit": "cup" },
+        { "name": "water", "quantity": "1/2", "unit": "cup" },
+        { "name": "dark brown sugar", "quantity": "1/2", "unit": "cup" },
+        { "name": "green onions, sliced into 2-inch pieces", "quantity": "6", "unit": "" },
+        { "name": "red pepper flakes", "quantity": "1/2", "unit": "tsp" },
+        { "name": "sesame seeds", "quantity": "1", "unit": "tbsp" },
+        { "name": "steamed rice", "quantity": "", "unit": "for serving" }
+      ],
+      "instructions": "1. Toss the sliced beef with cornstarch in a bowl until evenly coated. Allow to sit for 10 minutes.\n\n2. Heat 2 tablespoons of oil in a large wok or skillet over high heat until shimmering.\n\n3. Add the beef and spread it out in a single layer. Let it cook undisturbed for 1 minute to sear, then stir-fry for another 1-2 minutes until the beef is browned but still slightly pink in the center. Transfer to a plate.\n\n4. In the same pan, add the remaining 1 tablespoon of oil. Add ginger and garlic, stir-frying for 30 seconds until fragrant.\n\n5. Add soy sauce, water, and brown sugar. Bring to a boil, then reduce heat and simmer for 2-3 minutes until the sauce thickens slightly.\n\n6. Return the beef to the pan along with any accumulated juices. Add the green onions and red pepper flakes.\n\n7. Stir-fry for another 1-2 minutes until the sauce coats the beef and has thickened to your desired consistency.\n\n8. Garnish with sesame seeds and serve hot over steamed rice.",
+      "notes": "Although called Mongolian beef, this dish is actually more Chinese-American in origin. For the most tender beef, slice it against the grain and freeze it for 20 minutes before slicing to make it easier to cut thinly. If you prefer a thicker sauce, mix 1 teaspoon of cornstarch with 2 teaspoons of cold water and stir it into the sauce in step 5.",
+      "cookwares": [
+        "Large wok or skillet",
+        "Mixing bowl",
+        "Knife",
+        "Cutting board",
+        "Measuring cups and spoons"
+      ],
+      "images": []
+    },
+    {
+      "name": "Buuz (Mongolian Dumplings)",
+      "category": "Mongolian",
+      "cookingTime": 90,
+      "servings": 6,
+      "difficulty": "Hard",
+      "ingredients": [
+        { "name": "all-purpose flour", "quantity": "3", "unit": "cups" },
+        { "name": "warm water", "quantity": "1", "unit": "cup" },
+        { "name": "salt", "quantity": "1", "unit": "tsp" },
+        { "name": "ground lamb or beef", "quantity": "1", "unit": "lb" },
+        { "name": "onions, finely chopped", "quantity": "2", "unit": "medium" },
+        { "name": "garlic, minced", "quantity": "3", "unit": "cloves" },
+        { "name": "ground cumin", "quantity": "1", "unit": "tsp" },
+        { "name": "ground coriander", "quantity": "1/2", "unit": "tsp" },
+        { "name": "salt", "quantity": "1", "unit": "tsp" },
+        { "name": "black pepper", "quantity": "1/2", "unit": "tsp" },
+        { "name": "water", "quantity": "3", "unit": "tbsp" },
+        { "name": "vegetable oil", "quantity": "2", "unit": "tbsp" }
+      ],
+      "instructions": "1. For the dough: Mix flour and salt in a large bowl. Gradually add warm water while kneading until a smooth, elastic dough forms. Cover with a damp cloth and let rest for 30 minutes.\n\n2. For the filling: Combine ground meat, onions, garlic, cumin, coriander, salt, pepper, water, and oil in a bowl. Mix thoroughly and let it rest in the refrigerator for 15-20 minutes.\n\n3. Divide the dough into 25-30 equal portions and shape each into a ball. On a lightly floured surface, roll each ball into a 3-inch circle, making the edges thinner than the center.\n\n4. Place about 1 tablespoon of filling in the center of each dough circle.\n\n5. To form the traditional buuz shape, start by pinching together the edges of the dough to create pleats around the circumference. Leave a small opening at the top.\n\n6. Prepare a steamer by lining with cabbage leaves or parchment paper (with holes poked in it).\n\n7. Arrange the dumplings in the steamer, leaving space between them as they will expand.\n\n8. Steam over boiling water for 15-20 minutes until the dough is cooked and translucent.\n\n9. Serve hot, traditionally without dipping sauce.",
+      "notes": "Buuz are traditional Mongolian steamed dumplings typically eaten during Tsagaan Sar (Mongolian New Year). The quality of the meat matters—using freshly ground meat with some fat content (80/20) gives the best flavor. The pleating technique takes practice, so don't worry if your first few don't look perfect. In Mongolia, these are often made in large batches with the whole family helping to prepare them.",
+      "cookwares": [
+        "Large mixing bowl",
+        "Rolling pin",
+        "Steamer",
+        "Knife",
+        "Cutting board",
+        "Measuring cups and spoons"
+      ],
+      "images": []
+    },
+    {
+      "name": "Khorkhog (Mongolian Stone BBQ)",
+      "category": "Mongolian",
+      "cookingTime": 120,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "lamb with bones, cut into large pieces", "quantity": "3", "unit": "lbs" },
+        { "name": "potatoes, quartered", "quantity": "4", "unit": "medium" },
+        { "name": "carrots, cut into large chunks", "quantity": "3", "unit": "medium" },
+        { "name": "onions, quartered", "quantity": "2", "unit": "large" },
+        { "name": "garlic cloves, whole", "quantity": "6", "unit": "" },
+        { "name": "salt", "quantity": "2", "unit": "tsp" },
+        { "name": "black pepper", "quantity": "1", "unit": "tsp" },
+        { "name": "water", "quantity": "1", "unit": "cup" },
+        { "name": "smooth river stones (baseball-sized)", "quantity": "10-15", "unit": "" }
+      ],
+      "instructions": "1. Thoroughly clean the river stones by washing and boiling them for 15 minutes. Dry the stones completely.\n\n2. Heat the stones in a fire or on a very hot grill until they're extremely hot (15-20 minutes).\n\n3. In a large, heavy-duty pot with a tight-fitting lid (a Dutch oven works well), layer the lamb pieces, potatoes, carrots, onions, and garlic. Season each layer with salt and pepper.\n\n4. Using tongs, carefully place the hot stones on top of and between the meat and vegetables.\n\n5. Add the water, immediately cover with the lid, and seal tightly. If using a traditional pressure cooker, secure it properly.\n\n6. Cook over medium-low heat for about 60-90 minutes. The stones will create steam and cook the meat from the inside.\n\n7. Carefully open the pot (beware of hot steam) and check if the meat is tender and falling off the bone.\n\n8. Serve the meat and vegetables on a large platter, with the stones set aside.\n\n9. Traditionally, diners pass the warm stones from hand to hand to absorb their healing properties before eating.",
+      "notes": "Khorkhog is a traditional Mongolian barbecue cooked with hot stones. Authentically, it's prepared outdoors using a milk can or pressure cooker, but a Dutch oven works well for home cooking. The hot stones cook the meat from direct contact and by creating steam in the sealed container. Be extremely careful when handling the hot stones. This dish is typically enjoyed communally at gatherings and celebrations in Mongolia.",
+      "cookwares": [
+        "Large Dutch oven or pressure cooker with lid",
+        "Tongs",
+        "Grill or fire pit (for heating stones)",
+        "Large serving platter"
+      ],
+      "images": []
+    }
+  ]

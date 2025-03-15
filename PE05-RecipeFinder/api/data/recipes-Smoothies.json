@@ -1,0 +1,145 @@
+[
+    {
+      "name": "Berry Bliss Smoothie",
+      "category": "Smoothie",
+      "cookingTime": 5,
+      "servings": 2,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "frozen mixed berries", "quantity": "2", "unit": "cups" },
+        { "name": "banana", "quantity": "1", "unit": "medium" },
+        { "name": "Greek yogurt", "quantity": "1/2", "unit": "cup" },
+        { "name": "almond milk", "quantity": "1", "unit": "cup" },
+        { "name": "honey or maple syrup", "quantity": "1", "unit": "tbsp" },
+        { "name": "chia seeds", "quantity": "1", "unit": "tbsp" },
+        { "name": "fresh mint leaves (optional)", "quantity": "5", "unit": "" },
+        { "name": "ice cubes", "quantity": "1/2", "unit": "cup" }
+      ],
+      "instructions": "1. Add all ingredients to a high-speed blender.\n\n2. Blend on high until smooth and creamy, about 60 seconds.\n\n3. If the smoothie is too thick, add more almond milk. If it's too thin, add more frozen berries or ice.\n\n4. Pour into glasses and serve immediately. Garnish with additional berries or mint leaves if desired.",
+      "notes": "For a vegan version, use plant-based yogurt and maple syrup instead of honey. You can boost the nutrition by adding a handful of spinach—the berry flavor will mask it completely. For a protein-rich post-workout smoothie, add a scoop of your favorite protein powder.",
+      "cookwares": [
+        "High-speed blender",
+        "Measuring cups and spoons",
+        "Serving glasses"
+      ],
+      "images": []
+    },
+    {
+      "name": "Green Detox Smoothie",
+      "category": "Smoothie",
+      "cookingTime": 5,
+      "servings": 2,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "baby spinach", "quantity": "2", "unit": "cups" },
+        { "name": "kale leaves, stems removed", "quantity": "1", "unit": "cup" },
+        { "name": "green apple, cored and chopped", "quantity": "1", "unit": "medium" },
+        { "name": "cucumber, chopped", "quantity": "1/2", "unit": "medium" },
+        { "name": "celery stalk", "quantity": "1", "unit": "" },
+        { "name": "fresh ginger, peeled and grated", "quantity": "1", "unit": "tsp" },
+        { "name": "lemon juice", "quantity": "1", "unit": "tbsp" },
+        { "name": "avocado", "quantity": "1/2", "unit": "medium" },
+        { "name": "coconut water", "quantity": "1", "unit": "cup" },
+        { "name": "ice cubes", "quantity": "1", "unit": "cup" },
+        { "name": "hemp seeds", "quantity": "1", "unit": "tbsp" },
+        { "name": "honey or maple syrup (optional)", "quantity": "1", "unit": "tsp" }
+      ],
+      "instructions": "1. Add spinach, kale, green apple, cucumber, celery, ginger, and lemon juice to a high-speed blender.\n\n2. Pour in the coconut water and blend on high speed until smooth.\n\n3. Add the avocado, ice cubes, and hemp seeds. Blend again until creamy and smooth.\n\n4. Taste and add honey or maple syrup if desired, blending briefly to incorporate.\n\n5. Pour into glasses and serve immediately.",
+      "notes": "This nutrient-dense smoothie is perfect for a morning cleanse or a post-workout recovery. The avocado adds healthy fats and creates a creamy texture. To meal-prep, you can freeze the fruits and vegetables in individual portions (except avocado) and blend with liquid when ready to consume. Add a scoop of plant-based protein powder to make it more filling.",
+      "cookwares": [
+        "High-speed blender",
+        "Knife",
+        "Cutting board",
+        "Measuring cups and spoons",
+        "Serving glasses"
+      ],
+      "images": []
+    },
+    {
+      "name": "Tropical Sunrise Smoothie",
+      "category": "Smoothie",
+      "cookingTime": 5,
+      "servings": 2,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "fresh pineapple chunks", "quantity": "1", "unit": "cup" },
+        { "name": "mango, peeled and diced", "quantity": "1", "unit": "medium" },
+        { "name": "banana", "quantity": "1", "unit": "medium" },
+        { "name": "orange, peeled and segmented", "quantity": "1", "unit": "medium" },
+        { "name": "passion fruit pulp", "quantity": "2", "unit": "tbsp" },
+        { "name": "coconut milk", "quantity": "1/2", "unit": "cup" },
+        { "name": "orange juice", "quantity": "1/4", "unit": "cup" },
+        { "name": "vanilla yogurt", "quantity": "1/2", "unit": "cup" },
+        { "name": "honey", "quantity": "1", "unit": "tbsp" },
+        { "name": "ice cubes", "quantity": "1", "unit": "cup" },
+        { "name": "fresh mint leaves (optional)", "quantity": "3", "unit": "" }
+      ],
+      "instructions": "1. Add all fruit (pineapple, mango, banana, orange, and passion fruit pulp) to a high-speed blender.\n\n2. Pour in coconut milk, orange juice, and add yogurt.\n\n3. Add honey and mint leaves if using.\n\n4. Top with ice cubes and blend on high speed until completely smooth and creamy, about 45-60 seconds.\n\n5. Taste and adjust sweetness if needed.\n\n6. Pour into glasses and garnish with a small slice of pineapple or orange if desired. Serve immediately.",
+      "notes": "This vibrant tropical smoothie is packed with vitamin C and makes a perfect breakfast or afternoon pick-me-up. For a thicker smoothie, freeze the banana beforehand. To make it more filling, add a tablespoon of chia seeds or a scoop of vanilla protein powder. For a vegan version, substitute the yogurt with coconut yogurt.",
+      "cookwares": [
+        "High-speed blender",
+        "Knife",
+        "Cutting board",
+        "Measuring cups and spoons",
+        "Serving glasses"
+      ],
+      "images": []
+    },
+    {
+      "name": "Peanut Butter Protein Smoothie",
+      "category": "Smoothie",
+      "cookingTime": 5,
+      "servings": 2,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "banana", "quantity": "1", "unit": "medium" },
+        { "name": "natural peanut butter", "quantity": "2", "unit": "tbsp" },
+        { "name": "chocolate protein powder", "quantity": "1", "unit": "scoop" },
+        { "name": "almond milk", "quantity": "1 1/2", "unit": "cups" },
+        { "name": "greek yogurt", "quantity": "1/4", "unit": "cup" },
+        { "name": "honey", "quantity": "1", "unit": "tbsp" },
+        { "name": "flaxseed meal", "quantity": "1", "unit": "tbsp" },
+        { "name": "ice cubes", "quantity": "1", "unit": "cup" },
+        { "name": "cinnamon", "quantity": "1/4", "unit": "tsp" }
+      ],
+      "instructions": "1. Place all ingredients in a high-speed blender.\n\n2. Blend on high until smooth and creamy, about 30-45 seconds.\n\n3. If the smoothie is too thick, add more almond milk. If it's too thin, add more ice or freeze the banana beforehand.\n\n4. Pour into glasses and sprinkle with a dash of cinnamon if desired. Serve immediately.",
+      "notes": "This protein-packed smoothie makes an excellent post-workout recovery drink or meal replacement. For a more decadent version, use chocolate almond milk instead of plain. To reduce sugar content, use an unsweetened protein powder and skip the honey. For extra nutrition, add a handful of spinach—the chocolate and peanut butter flavors will disguise it completely.",
+      "cookwares": [
+        "High-speed blender",
+        "Measuring cups and spoons",
+        "Serving glasses"
+      ],
+      "images": []
+    },
+    {
+      "name": "Immune Booster Smoothie",
+      "category": "Smoothie",
+      "cookingTime": 5,
+      "servings": 2,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "orange, peeled", "quantity": "1", "unit": "large" },
+        { "name": "carrot, chopped", "quantity": "1", "unit": "medium" },
+        { "name": "fresh turmeric root, peeled and sliced", "quantity": "1", "unit": "inch" },
+        { "name": "fresh ginger, peeled and sliced", "quantity": "1", "unit": "inch" },
+        { "name": "mango, frozen chunks", "quantity": "1", "unit": "cup" },
+        { "name": "pineapple chunks", "quantity": "1/2", "unit": "cup" },
+        { "name": "coconut water", "quantity": "1", "unit": "cup" },
+        { "name": "lemon juice", "quantity": "1", "unit": "tbsp" },
+        { "name": "black pepper", "quantity": "1", "unit": "pinch" },
+        { "name": "honey", "quantity": "1", "unit": "tbsp" },
+        { "name": "ice cubes", "quantity": "1/2", "unit": "cup" }
+      ],
+      "instructions": "1. Add orange, carrot, turmeric, ginger, mango, pineapple, coconut water, lemon juice, black pepper, and honey to a high-speed blender.\n\n2. Blend on high until completely smooth, about 60-90 seconds.\n\n3. Add ice cubes and blend again until smooth and chilled.\n\n4. Pour into glasses and serve immediately.",
+      "notes": "This vitamin-packed smoothie is designed to support immune health with ingredients high in vitamin C, antioxidants, and anti-inflammatory compounds. The black pepper increases the bioavailability of curcumin in turmeric. If fresh turmeric is unavailable, substitute with 1/2 teaspoon ground turmeric. For a spicier kick, add more ginger. This smoothie is best consumed fresh, as the nutrients degrade over time.",
+      "cookwares": [
+        "High-speed blender",
+        "Vegetable peeler",
+        "Knife",
+        "Cutting board",
+        "Measuring cups and spoons",
+        "Serving glasses"
+      ],
+      "images": []
+    }
+  ]

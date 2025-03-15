@@ -1,0 +1,104 @@
+[
+    {
+      "name": "Apple Pie",
+      "category": "Dessert",
+      "cookingTime": 90,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "all-purpose flour", "quantity": "2 1/2", "unit": "cups" },
+        { "name": "unsalted butter, very cold, cubed", "quantity": "1", "unit": "cup" },
+        { "name": "salt", "quantity": "1", "unit": "tsp" },
+        { "name": "granulated sugar", "quantity": "1", "unit": "tbsp" },
+        { "name": "ice water", "quantity": "6-8", "unit": "tbsp" },
+        { "name": "Granny Smith apples, peeled and sliced", "quantity": "4", "unit": "large" },
+        { "name": "Honeycrisp or Braeburn apples, peeled and sliced", "quantity": "3", "unit": "large" },
+        { "name": "lemon juice", "quantity": "1", "unit": "tbsp" },
+        { "name": "granulated sugar", "quantity": "3/4", "unit": "cup" },
+        { "name": "brown sugar", "quantity": "1/4", "unit": "cup" },
+        { "name": "ground cinnamon", "quantity": "1 1/2", "unit": "tsp" },
+        { "name": "ground nutmeg", "quantity": "1/4", "unit": "tsp" },
+        { "name": "all-purpose flour", "quantity": "3", "unit": "tbsp" },
+        { "name": "unsalted butter, cut into small pieces", "quantity": "2", "unit": "tbsp" },
+        { "name": "egg, beaten with 1 tbsp water", "quantity": "1", "unit": "large" },
+        { "name": "coarse sugar for sprinkling", "quantity": "1", "unit": "tbsp" }
+      ],
+      "instructions": "1. For the pie crust: In a food processor, pulse flour, salt, and sugar to combine. Add cold butter and pulse until mixture resembles coarse meal with pea-sized pieces of butter.\n\n2. Add ice water 1 tablespoon at a time, pulsing until dough begins to come together. Be careful not to over-process. Dough should not be completely smooth but should hold together when pinched.\n\n3. Divide dough in half, form into discs, wrap in plastic, and refrigerate for at least 1 hour.\n\n4. For the filling: In a large bowl, toss sliced apples with lemon juice. Add both sugars, cinnamon, nutmeg, and flour. Mix well to combine and set aside for 15-30 minutes.\n\n5. Preheat oven to 425°F (220°C). Place a baking sheet in the oven to preheat.\n\n6. Roll out one disc of dough on a floured surface into a 12-inch circle. Transfer to a 9-inch pie dish. Trim edges, leaving about 1/2 inch overhang.\n\n7. Pour apple filling into the crust, mounding slightly in the center. Dot with small pieces of butter.\n\n8. Roll out the second disc of dough. You can either make a solid top crust with slits for steam, or create a lattice pattern.\n\n9. Trim and crimp the edges to seal. Brush the top with egg wash and sprinkle with coarse sugar.\n\n10. Place pie on the preheated baking sheet. Bake for 20 minutes at 425°F, then reduce temperature to 375°F (190°C) and continue baking for 40-45 minutes until crust is golden brown and filling is bubbling.\n\n11. If edges are browning too quickly, cover them with foil.\n\n12. Allow pie to cool completely on a wire rack for at least 3 hours before slicing to let the filling set.",
+      "notes": "The key to perfect pie crust is keeping everything cold and handling the dough as little as possible. Using a mixture of apple varieties gives the best flavor and texture—tart apples hold their shape while sweeter varieties break down to create a sauce. For extra flavor, add a teaspoon of vanilla extract or a tablespoon of bourbon to the filling. Serve with vanilla ice cream or whipped cream for the full experience.",
+      "cookwares": [
+        "Food processor",
+        "9-inch pie dish",
+        "Rolling pin",
+        "Baking sheet",
+        "Mixing bowls",
+        "Pastry brush",
+        "Wire cooling rack",
+        "Vegetable peeler",
+        "Apple corer/slicer (optional)"
+      ],
+      "images": []
+    },
+    {
+      "name": "Tiramisu",
+      "category": "Dessert",
+      "cookingTime": 30,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        { "name": "mascarpone cheese", "quantity": "16", "unit": "oz" },
+        { "name": "egg yolks", "quantity": "6", "unit": "large" },
+        { "name": "granulated sugar", "quantity": "3/4", "unit": "cup" },
+        { "name": "heavy cream", "quantity": "1", "unit": "cup" },
+        { "name": "vanilla extract", "quantity": "1", "unit": "tsp" },
+        { "name": "strong brewed espresso, cooled", "quantity": "1 1/2", "unit": "cups" },
+        { "name": "Marsala wine (or coffee liqueur)", "quantity": "1/4", "unit": "cup" },
+        { "name": "ladyfinger cookies", "quantity": "24", "unit": "" },
+        { "name": "unsweetened cocoa powder", "quantity": "2", "unit": "tbsp" },
+        { "name": "dark chocolate, grated", "quantity": "2", "unit": "oz" }
+      ],
+      "instructions": "1. In a heat-safe bowl, whisk together egg yolks and sugar. Place the bowl over a pot of simmering water (double boiler), ensuring the bottom of the bowl doesn't touch the water.\n\n2. Whisk continuously until the mixture reaches about 160°F (71°C) and becomes pale and thick enough to coat the back of a spoon, about 5-7 minutes.\n\n3. Remove from heat and let cool for 10 minutes.\n\n4. In a large bowl, whisk mascarpone until smooth. Fold in the cooled egg mixture until fully incorporated.\n\n5. In a separate bowl, whip the heavy cream and vanilla extract to stiff peaks. Gently fold into the mascarpone mixture.\n\n6. In a shallow dish, combine espresso and Marsala wine. Quickly dip each ladyfinger into the coffee mixture (about 1 second per side) and arrange in a single layer in a 9x13-inch dish.\n\n7. Spread half of the mascarpone mixture over the ladyfingers. Dust lightly with cocoa powder.\n\n8. Repeat with another layer of dipped ladyfingers and the remaining mascarpone mixture.\n\n9. Dust the top generously with cocoa powder and sprinkle with grated chocolate.\n\n10. Cover with plastic wrap and refrigerate for at least 6 hours, preferably overnight, to allow the flavors to meld.\n\n11. Serve chilled, cutting into squares.",
+      "notes": "Traditional tiramisu uses raw egg yolks, but this recipe cooks them for safety. The key is not to soak the ladyfingers too long—they should absorb moisture but still hold their shape. For a non-alcoholic version, simply use additional coffee in place of the Marsala. Tiramisu can be prepared up to 2 days in advance and keeps well in the refrigerator.",
+      "cookwares": [
+        "Heat-safe mixing bowl",
+        "Pot for double boiler",
+        "9x13-inch baking dish",
+        "Whisk",
+        "Spatula",
+        "Electric mixer",
+        "Shallow dish for dipping ladyfingers",
+        "Fine mesh sieve for dusting cocoa powder"
+      ],
+      "images": []
+    },
+    {
+      "name": "Chocolate Chip Cookies",
+      "category": "Dessert",
+      "cookingTime": 25,
+      "servings": 24,
+      "difficulty": "Easy",
+      "ingredients": [
+        { "name": "all-purpose flour", "quantity": "2 1/4", "unit": "cups" },
+        { "name": "baking soda", "quantity": "1", "unit": "tsp" },
+        { "name": "salt", "quantity": "1", "unit": "tsp" },
+        { "name": "unsalted butter, softened", "quantity": "1", "unit": "cup" },
+        { "name": "granulated sugar", "quantity": "3/4", "unit": "cup" },
+        { "name": "brown sugar, packed", "quantity": "3/4", "unit": "cup" },
+        { "name": "vanilla extract", "quantity": "2", "unit": "tsp" },
+        { "name": "large eggs", "quantity": "2", "unit": "" },
+        { "name": "semi-sweet chocolate chips", "quantity": "2", "unit": "cups" },
+        { "name": "walnuts or pecans, chopped (optional)", "quantity": "1", "unit": "cup" }
+      ],
+      "instructions": "1. Preheat oven to 375°F (190°C). Line baking sheets with parchment paper.\n\n2. In a small bowl, whisk together the flour, baking soda, and salt. Set aside.\n\n3. In a large bowl, beat the softened butter, granulated sugar, and brown sugar with an electric mixer on medium speed until creamy, about 2-3 minutes.\n\n4. Add vanilla extract and eggs, one at a time, beating well after each addition.\n\n5. Gradually add the flour mixture to the butter mixture, beating on low speed until just combined. Do not overmix.\n\n6. Stir in chocolate chips and nuts (if using) with a wooden spoon or spatula.\n\n7. Drop rounded tablespoons of dough about 2 inches apart onto the prepared baking sheets.\n\n8. Bake for 9-11 minutes or until golden brown around the edges but still soft in the center.\n\n9. Cool on the baking sheets for 2 minutes, then transfer to wire racks to cool completely.\n\n10. Store in an airtight container at room temperature for up to 5 days.",
+      "notes": "For chewier cookies, use more brown sugar than white sugar. For a softer texture, add an extra egg yolk. Chilling the dough for at least 30 minutes (or up to 72 hours) before baking will enhance flavor and prevent spreading. For an extra touch, sprinkle a little flaky sea salt on top just before baking.",
+      "cookwares": [
+        "Baking sheets",
+        "Parchment paper",
+        "Electric mixer",
+        "Mixing bowls",
+        "Measuring cups and spoons",
+        "Wooden spoon or spatula",
+        "Wire cooling racks"
+      ],
+      "images": []
+    }
+  ]
