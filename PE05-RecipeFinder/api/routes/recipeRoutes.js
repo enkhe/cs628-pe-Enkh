@@ -13,6 +13,9 @@ router.delete('/:id', recipeController.deleteRecipe);
 // Route to delete all recipes
 router.delete('/', recipeController.deleteAllRecipes);
 
+// New route to get the most recently added recipe
+router.get('/latest', recipeController.getLatestRecipe);
+
 // API Documentation Route
 router.get('/api-docs', (req, res) => {
   res.send(`
@@ -21,6 +24,7 @@ router.get('/api-docs', (req, res) => {
     <ul>
       <li><strong>GET /recipes</strong> - Retrieve all recipes.</li>
       <li><strong>GET /recipes/:id</strong> - Retrieve a specific recipe by its ID.</li>
+      <li><strong>GET /recipes/latest</strong> - Retrieve the most recently added recipe.</li>
       <li><strong>POST /recipes</strong> - Create a new recipe. <br>
         <strong>Body:</strong> JSON object with <code>name</code>, <code>category</code>, <code>cookingTime</code>, <code>servings</code>, <code>difficulty</code>, <code>ingredients</code>, <code>instructions</code>, <code>notes</code>, <code>images</code>, and <code>cookwares</code>.
       </li>

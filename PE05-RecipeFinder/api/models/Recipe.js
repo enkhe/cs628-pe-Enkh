@@ -1,30 +1,22 @@
 const mongoose = require('mongoose');
 
-const IngredientSchema = new mongoose.Schema({
+const ingredientSchema = new mongoose.Schema({
   name: { type: String, required: true },
-  quantity: { type: String, required: false }, // Make quantity optional
-  unit: { type: String, required: false } // Unit can be optional
+  quantity: { type: String, required: true },
+  unit: { type: String, required: true },
 });
 
-const RecipeSchema = new mongoose.Schema({
+const recipeSchema = new mongoose.Schema({
   name: { type: String, required: true },
   category: { type: String, required: true },
-  cookingTime: { type: Number, required: true }, // Time in minutes
+  cookingTime: { type: Number, required: true },
   servings: { type: Number, required: true },
-  difficulty: { type: String, enum: ['Easy', 'Medium', 'Hard'], required: true },
-  ingredients: { type: [IngredientSchema], required: true, default: [
-    {
-      "name": "salt",
-      "quantity": "",
-      "unit": "to taste"
-    }
-  ] },
+  difficulty: { type: String, required: true },
+  ingredients: { type: [ingredientSchema], required: true },
   instructions: { type: String, required: true },
-  notes: { type: String, required: false }, // Optional field for additional notes
-  images: { type: [String], required: false }, // Array of image URLs
-  cookwares: { type: [String], required: false }, // Optional array of cookware or utensils
-  createdAt: { type: Date, default: Date.now },
-  updatedAt: { type: Date, default: Date.now }
-});
+  notes: { type: String, default: '' },
+  images: { type: [String], default: [] },
+  cookwares: { type: [String], default: [] },
+}, { timestamps: true });
 
-module.exports = mongoose.model('Recipe', RecipeSchema);
+module.exports = mongoose.model('Recipe', recipeSchema);

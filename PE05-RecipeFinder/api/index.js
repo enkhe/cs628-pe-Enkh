@@ -2,6 +2,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
 const recipeRoutes = require('./routes/recipeRoutes');
+const Recipe = require('./models/Recipe'); // Import the Recipe model
 require('dotenv').config({ path: './config.env' }); // Explicitly specify the path
 
 const app = express();
@@ -59,44 +60,7 @@ app.get('/', (req, res) => {
   `);
 });
 
-app.post('/recipes', async (req, res) => {
-  try {
-    const { name, category, cookingTime, servings, difficulty, ingredients, instructions } = req.body;
-
-    // Validate required fields
-    if (!name || !category || !cookingTime || !servings || !difficulty || !ingredients || !instructions) {
-      return res.status(400).json({ error: 'All fields are required.' });
-    }
-
-    // Validate data types
-    if (isNaN(cookingTime) || isNaN(servings)) {
-      return res.status(400).json({ error: 'Cooking time and servings must be numbers.' });
-    }
-
-    // Validate ingredients
-    if (!Array.isArray(ingredients) || ingredients.length === 0) {
-      return res.status(400).json({ error: 'Ingredients must be a non-empty array.' });
-    }
-
-    // Create the recipe
-    const newRecipe = new Recipe({
-      name,
-      category,
-      cookingTime: Number(cookingTime),
-      servings: Number(servings),
-      difficulty,
-      ingredients,
-      instructions,
-    });
-
-    await newRecipe.save();
-    res.status(201).json(newRecipe);
-  } catch (error) {
-    console.error('Error creating recipe:', error);
-    res.status(500).json({ error: 'Internal Server Error' });
-  }
-});
-
+// Use recipeRoutes for all /recipes endpoints
 app.use('/recipes', recipeRoutes);
 
 // Start the server

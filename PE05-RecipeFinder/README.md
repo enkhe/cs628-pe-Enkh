@@ -197,6 +197,37 @@ Here’s an example of a recipe object stored in the database:
 
 ---
 
+## Testing the API
+
+### Example `POST /recipes` Request
+
+You can use the following `curl` command to test the `POST /recipes` endpoint:
+
+```bash
+curl -X POST https://animated-orbit-g67vp9x4r7h9465-5000.app.github.dev/recipes \
+-H "Content-Type: application/json" \
+-d '{
+  "name": "hot Lipton tea",
+  "category": "tea",
+  "cookingTime": 4,
+  "servings": 1,
+  "difficulty": "easy",
+  "ingredients": [
+    { "name": "lipton", "quantity": "1", "unit": "piece" },
+    { "name": "water", "quantity": "1", "unit": "cup" }
+  ],
+  "instructions": "Have a cup of hot boiled water, and dip the lipton tea for 1 min and take it out.",
+  "notes": "quick tea",
+  "images": [],
+  "cookwares": [ "tea cup", "water boiler" ]
+}'
+```
+
+### Expected Response
+If the request is successful, you should receive a `201 Created` response with the newly created recipe object.
+
+---
+
 ## API Endpoints
 
 ### Recipes
